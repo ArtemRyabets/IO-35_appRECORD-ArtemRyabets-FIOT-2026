@@ -10,8 +10,9 @@
 
 ### 1.3 Місце розташування
 
-- GitHub застосунку: [посилання буде додано після публікації репозиторію]
-- GitHub звітного сайту: [посилання буде додано після публікації репозиторію]
+- GitHub застосунку: [https://github.com/ArtemRyabets/Blogpost]
+- GitHub звітного сайту: [https://github.com/ArtemRyabets/IO-35_appRECORD-ArtemRyabets-FIOT-2026]
+- Звітний сайт: [https://artemryabets.github.io/IO-35_appRECORD-ArtemRyabets-FIOT-2026/]
 
 ---
 
