@@ -9,8 +9,8 @@
 ### 1.3 Посилання
 - Репозиторій власного веб-застосунку (GitHub): [посилання](https://github.com/pliffdax/Helpdesk)
 - Власний веб-застосунок (Жива сторінка): [посилання](https://pliffdax.github.io/Helpdesk/)
-- Репозиторій звітного HTML-документа (GitHub): [посилання](https://github.com/pliffdax/IO-35_appRECORD-StepanovOleksandr-FIOT-2026)
-- Звітний HTML-документ (Жива сторінка): [посилання](https://pliffdax.github.io/IO-35_appRECORD-StepanovOleksandr-FIOT-2026/)
+- Репозиторій звітного HTML-документа (GitHub): [посилання](https://github.com/ArtemRyabets/IO-31_appRECORD-ArtemRyabets-FIOT-2026)
+- Звітний HTML-документ (Жива сторінка): [посилання](https://artemryabets.github.io/IO-31_appRECORD-ArtemRyabets-FIOT-2026/)
 
 ---
 

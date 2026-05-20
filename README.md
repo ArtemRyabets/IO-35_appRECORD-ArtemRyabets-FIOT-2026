@@ -27,7 +27,7 @@ Ix-xx_appRECORD-LastnameFirstname-FIOT-202x
 Наприклад:
 
 ```
-IO-35_appRECORD-StepanovOleksandr-FIOT-2026
+IO-31_appRECORD-ArtemRyabets-FIOT-2026
 ```
 
 або будь-яким іншим форматом, який вимагає викладач.
@@ -45,13 +45,13 @@ base-path.js
 ```js
 export const BASE_PATH =
   process.env.BASE_PATH ??
-  (process.env.NODE_ENV === "production" ? "/Labs-Markdown-Template" : "");
+  (process.env.NODE_ENV === "production" ? "/IO-31_appRECORD-ArtemRyabets-FIOT-2026" : "");
 ```
 
-І замініть:
+Якщо репозиторій буде перейменовано, замініть:
 
 ```
-"/Labs-Markdown-Template"
+"/IO-31_appRECORD-ArtemRyabets-FIOT-2026"
 ```
 
 на:
@@ -65,7 +65,7 @@ export const BASE_PATH =
 ```js
 export const BASE_PATH =
   process.env.BASE_PATH ??
-  (process.env.NODE_ENV === "production" ? "/IO-35_appRECORD-StepanovOleksandr-FIOT-2025" : "");
+  (process.env.NODE_ENV === "production" ? "/IO-31_appRECORD-ArtemRyabets-FIOT-2026" : "");
 ```
 
 Назва повинна повністю збігатися з назвою репозиторію на GitHub.
